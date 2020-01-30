@@ -4,7 +4,7 @@ Firstly, you need to configure Tomcat and Maven
 
 ## Maven
 
-go to $MAVEN_HOME/conf/settings.xml and add this to <servers> tag
+go to $MAVEN_HOME/conf/settings.xml and add this to servers tag
 
 ```bash
 <server>
