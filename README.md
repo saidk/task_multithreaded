@@ -23,7 +23,7 @@ In $TOMCAT/conf/tomcat_users.xml add a new user to <tomcat-users> tag
 ```
 
 ## Command Line
-After all configurations run this command:
+After all configurations run this command and application will run on http://localhost:8080/:
 
 ```bash
 mvn install tomcat7:deploy
